@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0756-pyramid-transition-matrix) |
 ## Backtracking
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0338-counting-bits) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Depth-First Search
 |  |
 | ------- |
