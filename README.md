@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1020-number-of-enclaves](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0046-permutations) |
 | [0756-pyramid-transition-matrix](https://github.com/Deepika-15B/LeetCode-Problems/tree/master/0756-pyramid-transition-matrix) |
 ## Bit Manipulation
 |  |
